@@ -2,7 +2,8 @@
 title: My blog articles
 author: Abe
 date: 2024-11-01T16:03:00.000Z
-tags: post
+tags:
+  - featured
 image: /assets/blog/tv-olympiad_2024.jpg
 imageAlt: TV
 description: 上网就能购物
