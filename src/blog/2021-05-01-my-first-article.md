@@ -1,11 +1,14 @@
 ---
-title: My First Article
-author: Kevin Powell
+title: Chan 禅
+author: Abe
 date: 2021-05-01
 tags: featured
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
-description: 上网就能购物、转账、点外卖，数码化时代的生活更便利，但随之而来的网络安全风险也在不断提高。根据新加坡网络安全局公布的2022年网络安全意识调查结果显示，有七成的受访者能成功识别网络钓鱼信息，但只有少于三成会立即更新手机软件Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+description: 上网就能购物、转账、点外卖，数码化时代的生活更便利，但随之而来的网络安全风险也在不断提高。根据新加坡网络安全局公布的2022年网络安全意识调查结果显示，有七成的受访者能成功识别网络钓鱼信息，但只有少于三成会立即更新手机软件Lorem
+  ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit
+  illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo
+  maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
